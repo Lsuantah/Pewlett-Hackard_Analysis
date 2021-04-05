@@ -27,8 +27,13 @@ To provides is to build an employee database that will provide insight to Bobby 
 
 
 Results
+
 From the retiring_titles csv data, we can observe that very high number of employees with various level of titles could retire at any given time. The diagram below shows retiring employees with their titles. This will help prepare for retirement packages as well as future vacancies to be filled.
+
 •	How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
 A total of 90,398 roles will need to be filled as these employees are due for retirement. 
+
 •	Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
 There are 1,940 employees who are qualified for mentorship, compared with the total retiring data, there are enough retirement-ready employees to provide mentoring. 
