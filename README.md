@@ -30,6 +30,9 @@ Results
 
 From the retiring_titles csv data, we can observe that very high number of employees with various level of titles could retire at any given time. The diagram below shows retiring employees with their titles. This will help prepare for retirement packages as well as future vacancies to be filled.
 
+![ret](https://user-images.githubusercontent.com/75961117/113534000-6d3c3b00-959d-11eb-8f9f-d138ad20d6a9.PNG)
+
+
 •	How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
 A total of 90,398 roles will need to be filled as these employees are due for retirement. 
