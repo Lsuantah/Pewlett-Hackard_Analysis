@@ -10,7 +10,7 @@ To provides is to build an employee database that will provide insight to Bobby 
 
 ## Methods
 
-•	Various queries were written to create the following tables.
+•	Various queries were written to create the following tables. Refer to attachement for specific query for each step.
 
 1-	Retirement_titles
 
