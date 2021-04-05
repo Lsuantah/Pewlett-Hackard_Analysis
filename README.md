@@ -20,6 +20,9 @@ To provides is to build an employee database that will provide insight to Bobby 
 
 4-	Mentorship_eligibility
 
+![mentorship_eligibility](https://user-images.githubusercontent.com/75961117/113533763-bb9d0a00-959c-11eb-86f8-dd1aadcd01e0.PNG)
+
+
 Results
 From the retiring_titles csv data, we can observe that very high number of employees with various level of titles could retire at any given time. The diagram below shows retiring employees with their titles. This will help prepare for retirement packages as well as future vacancies to be filled.
 •	How many roles will need to be filled as the "silver tsunami" begins to make an impact?
