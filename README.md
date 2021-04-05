@@ -9,6 +9,7 @@ To provides is to build an employee database that will provide insight to Bobby 
 ## Methods
 
 •	Various queries were written to create the following tables.
+
 1-	Retirement_titles
 
 
