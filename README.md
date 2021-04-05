@@ -14,6 +14,8 @@ To provides is to build an employee database that will provide insight to Bobby 
 
 2-	Unique_titles
 
+![unique_titles](https://user-images.githubusercontent.com/75961117/113533829-e6875e00-959c-11eb-8152-d11e3173c6ec.PNG)
+
 
 3-	Retiring_titles
 
