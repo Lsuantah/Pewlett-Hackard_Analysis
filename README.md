@@ -3,7 +3,9 @@
 ## Objective
 
 To provides is to build an employee database that will provide insight to Bobby to help provide retirement packages for those who meet the criteria. Secondly, it will help him prepare to fill future vacancies in the company. 
+
 •	To achieve this task, we need to help identify which employees will be retiring. 
+
 •	And how many future vacancies that will be available to fill when others retire. 
 
 ## Methods
